@@ -1,14 +1,9 @@
-<!-- GHBOT-DOWNLOAD-BLOCK:START -->
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
-<!-- GHBOT-DOWNLOAD-BLOCK:END -->
-
-Latest Version: v1.0.0 • File Size: ~156 MB
 
 🎮 American-Truck-Simulator-Cheats
 
 «⚡ A universal project with additional gameplay and visual features»
 
-Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
+
 
 📖 About
 
@@ -113,3 +108,4 @@ configs/
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
+
